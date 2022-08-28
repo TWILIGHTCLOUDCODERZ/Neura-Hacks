@@ -1,5 +1,3 @@
-# Neura-Hacks
-Solution for Climatic change
 ## Save Trees
 
 &emsp;&emsp; Earth is the only known planet to support and sustain life. And trees are the vital elements that maintain a balance and fill the world with greenery, freshness and nourishment so plant trees and save earth for our future.
