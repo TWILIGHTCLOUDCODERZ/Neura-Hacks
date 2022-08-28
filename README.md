@@ -12,9 +12,13 @@
 
 ## What it does
 
+![9](https://user-images.githubusercontent.com/101945531/187062982-a3588a42-8250-4df4-9c61-e04a7ba451b1.jpg)
+
 &emsp;&emsp;Raptorz Healthcare AI-BOT helps to book appointment without service desk interaction and Powerbi data visualization helps to understand the participants data to their field of  study and interests.
 
 ###More in detail about application,
+
+![8](https://user-images.githubusercontent.com/101945531/187063060-1ba08ec5-2bd9-41f2-9e8c-0600a07e3dde.jpg)
 
 <li>**AI-BOT :-**</li>
  &emsp;&emsp;AI-BOT helps user to book medical appointment according to doctor availability timing for health measurements which solves service desk burden and helps hospital to understand the detailed data via stored procedure insights which helps for solving future appointment measurements. 
@@ -74,3 +78,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
